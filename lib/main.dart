@@ -78,7 +78,6 @@ class MainApp extends StatelessWidget {
                 Row(
                   children: [
                     Container(
-                      margin: ,
                       color: Colors.grey.shade50.withOpacity(0.6),
                       child: Row(
                         children: [
@@ -116,7 +115,7 @@ class MainApp extends StatelessWidget {
               children: [Text("3-8 septembre")],
             ),
             Row(
-              children: [Text("140€ par nuit")],
+              children: [Text("3-8 septembre")],
             ),
           ],
         )),
